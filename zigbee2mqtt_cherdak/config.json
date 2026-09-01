@@ -1,6 +1,6 @@
 {
   "name": "Zigbee2MQTT Cherdak",
-  "version": "2.13.0-1",
+  "version": "2.14.0-1",
   "slug": "zigbee2mqtt_cherdak",
   "description": "Zigbee2MQTT for Cherdak coordinator",
   "breaking_versions": [
@@ -8,7 +8,7 @@
   ],
   "uart": true,
   "udev": true,
-  "url": "https://github.com/kimes01/hassio-zigbee2mqtt/tree/main/zigbee2mqtt_cherdak",
+  "url": "https://github.com/kimes01/Haos-multi/tree/main/zigbee2mqtt_cherdak",
   "startup": "application",
   "services": [
     "mqtt:need"
