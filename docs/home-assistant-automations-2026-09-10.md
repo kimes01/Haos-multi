@@ -31,7 +31,8 @@
 1. Елки и Мангал — `switch.poliv_s_1_po_4_sonoff_10013b4df4_2` и
    `switch.poliv_s_1_po_4_sonoff_10013b4df4_4` одновременно.
 2. Баня и Горка — `switch.poliv_s_1_po_4_sonoff_10013b4df4_3` и
-   `switch.poliv_s_9_po_12_sonoff_1001dbb3f7_1` одновременно.
+   `switch.poliv_s_9_po_12_sonoff_1001dbb3f7_1` стартуют одновременно;
+   «Баня» работает **5 минут**, «Горка» — **10 минут**.
 3. Перед двором — `switch.poliv_s_5_po_8_sonoff_10023b6e7b_4`.
 4. Перед горкой / въезд — `switch.poliv_s_5_po_8_sonoff_10023b6e7b_1`.
 5. Септик — `switch.poliv_s_5_po_8_sonoff_10023b6e7b_3`.
